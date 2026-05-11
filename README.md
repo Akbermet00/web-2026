@@ -1,4 +1,6 @@
 # ibemakil Shop - Интернет-магазин одежды
+https://ibemakil-shop.vercel.app/
+
 
 React-приложение с корзиной, избранным, админ-панелью, API товарами и Local Storage.
 
